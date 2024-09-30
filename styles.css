@@ -1,0 +1,206 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background-color: #000000;
+    width: 100vw;
+    height: 95vh;
+    
+}
+
+header {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.caixa-media {
+    display: inline-block;
+}
+
+.nav-header {
+    height: 15px;
+    width: 35px;
+    font-size: 23px;
+    color: #ffffff;
+    background: transparent;
+    cursor: pointer;
+    margin-right: 25px;
+    border: none;
+}
+
+.nav-header:hover {
+    color: #bbb9b9d5;
+}
+
+.link-phone {
+    margin-right: 35px;
+    color: #ffffff;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.link-phone:hover {
+    color: #bbb9b9d5;
+}
+
+.link-product {
+    margin-right: 17px;
+    color: #bbb9b9d5;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.link-product span {
+    color: #ffffff;
+}
+
+.link-product:hover {
+    color: #ffffff;
+}
+
+.link-service {
+    margin-right: 17px;
+    color: #bbb9b9d5;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.link-service span {
+    color: #ffffff;
+}
+
+.link-service:hover {
+    color: #ffffff;
+}
+
+.link-news {
+    margin-right: 800px;
+    color: #bbb9b9d5;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.link-news:hover {
+    color: #ffffff;
+}
+
+.lupa-header {
+    margin-right: 20px;
+    background-color: transparent;
+    color: #ffffff;
+    cursor: pointer;
+    border: none;
+}
+
+.carrinho-header {
+    margin-right: 20px;
+    background-color: transparent;
+    color: #ffffff;
+    cursor: pointer;
+    border: none;
+}
+
+.login-header {
+    height: 25px;
+    width: 93px;
+    margin-right: 20px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.lupa-header:hover {
+    color: #bbb9b9d5;
+}
+
+.login-header:hover {
+    background-color: #bbb9b9d5;
+}
+
+.carrinho-header:hover {
+    color: #bbb9b9d5;
+}
+
+.menu-nav {
+    color: #bbb9b9d5;
+    margin: 60px 0 30px 85px;
+    font-size: 13px;
+}
+
+.hig-nav {
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.especi-nav {
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.compare-nav {
+    cursor: pointer;
+}
+
+.hig-nav:hover {
+  color: #ffffff;
+}
+
+.especi-nav:hover {
+    color: #ffffff
+}
+
+.compare-nav:hover {
+    color: #ffffff
+}
+
+
+h1 {
+    margin-bottom: 25px;
+    margin-left: 85px;
+    font-weight: 200;
+    color:#f2f1f1d5;
+}
+
+h5 {
+    color: #ffffff;
+    margin-left: 85px;
+    font-size: 60px;
+    font-weight: 250;
+    margin-bottom: 30px;
+}
+
+img {
+    margin-left: 35%;
+    top: 10%;
+    height: 600px;
+    width: 1000px;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+}
+
+.buy-section {
+    border-radius: 20px;
+    height: 40px;
+    width: 170px;
+    margin-left: 85px;
+    font-size: 21px;
+    background-color: #7C11F1;
+    color: #ffffff;
+    font-weight: 250;
+    cursor: pointer;
+    border: none;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.buy-section:hover {
+    background-color: #6562FA;
+}
